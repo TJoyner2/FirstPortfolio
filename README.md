@@ -1,4 +1,4 @@
-# <Trent's Portfolio>
+# # <Trent's Portfolio>
 
 ## This my workin gportfolio for my coding career.  Will 100% be touched up troughout my class.
 This is to better my chances of finding a career once class ends. I build this project for more experience and to easily sare my works with any potential employers.
@@ -13,3 +13,4 @@ Fortunatly I was assisted with connecting all of my links so they only real step
 The tutor Juan helped me tremendously with getting my a tags right and transfering some style tags from html to css.
 Heather and Mel were tremendously helpful with just overal flow of the page and a few work arounds to some issues that I was running into.  
 Also used a good bit of information from post that Casey and Bryan posted into our class slack channels. 
+
