@@ -14,6 +14,7 @@ header{
     background-color:skyblue;
     text-align: center;
 }
+image 
 
 header nav ul{
     display: flex;
@@ -24,15 +25,16 @@ header nav ul{
 h1{
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
 }
+
 h2{
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
-h1, h2 {
     color: darkblue;
     text-align: center;
-}
+}    
+
 h3 {
     text-align: center;
     color: skyblue;
@@ -66,5 +68,4 @@ footer {
     background-color: black;
     color: #fff;
     text-align: center;
-   
 }
