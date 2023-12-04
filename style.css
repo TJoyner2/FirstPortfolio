@@ -1,0 +1,34 @@
+header{
+    color: navy;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-start;
+}
+
+h1{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    background-color: red;
+    border: none;
+    color: aliceblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: -webkit-grab;
+    border-radius: 15%;
+}
