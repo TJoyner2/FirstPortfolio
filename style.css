@@ -1,8 +1,18 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:skyblue
+}
+
 header{
     color: navy;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color:skyblue;
+    text-align: center;
 }
 
 header nav ul{
@@ -19,6 +29,15 @@ h2{
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+h1, h2 {
+    color: darkblue;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    color: skyblue;
+    margin-right: 35px;
+}
 
 button{
     background-color: red;
@@ -31,4 +50,21 @@ button{
     font-size: 16px;
     cursor: -webkit-grab;
     border-radius: 15%;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+}
+
+ul{
+    list-style-type: none;
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+   
 }
